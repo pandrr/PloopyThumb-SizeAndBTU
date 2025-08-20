@@ -6,7 +6,7 @@ Top and bottom shell are both needed, because there are cutouts in the bottom pa
 
 [All Images](Images)  
 <picture>/Images/Normal_SideView.png</picture>  
-[Small](/Images/Short_SideView.png)
+![Small](/Images/Short_SideView.png)
 
 The intended BTUs for use are Bosch Rexroth R053010810 KU-B8-OFK.  
 Three are needed and I've sourced them from here:  
