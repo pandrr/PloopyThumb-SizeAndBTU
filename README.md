@@ -4,7 +4,7 @@ BTU and size Mods for the Ploopy Thumb trackball
 ## Disclaimer
 Top and bottom shell are both needed, because there are cutouts in the bottom part to fit the BTUs.
 
-/Images/Normal_SideView.png  
+Images/Normal_SideView.png
 
 /Images/Short_SideView.png
 
