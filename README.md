@@ -14,6 +14,7 @@ Three are needed and I've sourced them from here https://keycapsss.com/BOSCH-Rex
 3D Print settings (on Bambulab X1C, but should be good on any other modern 3DP):  
 0.12 layer height  
 15% infill  
+3 walls  
 Treesupports  
 32° for supports  
 
