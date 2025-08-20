@@ -4,7 +4,8 @@ BTU and size Mods for the Ploopy Thumb trackball
 ## Disclaimer
 Top and bottom shell are both needed, because there are cutouts in the bottom part to fit the BTUs.
 
-[Images](Images)
+[Images](Images)  
+(/Images/Normal_SideView.png)
 
 The intended BTUs for use are Bosch Rexroth R053010810 KU-B8-OFK.  
 Three are needed and I've sourced them from here:  
