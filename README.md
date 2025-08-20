@@ -7,7 +7,8 @@ Top and bottom shell are both needed, because there are cutouts in the bottom pa
 [Images](Images)
 
 The intended BTUs for use are Bosch Rexroth R053010810 KU-B8-OFK.  
-Three are needed and I've sourced them from here https://keycapsss.com/BOSCH-Rexroth-BTU-Ball-transfer-units-R053010810-KU-B8-OFK/KC10246  
+Three are needed and I've sourced them from here:  
+https://keycapsss.com/BOSCH-Rexroth-BTU-Ball-transfer-units-R053010810-KU-B8-OFK/KC10246  
 
 ## Printsettings
 
